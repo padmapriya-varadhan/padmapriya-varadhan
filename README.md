@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @padmapriya
-- 👀 I am a Adobe Certified Expert-Magento Commerce Developer & Microsoft Certified: Azure Fundamentals.
+- 👀 I am an Adobe Certified Expert-Magento Commerce Developer & Microsoft Certified: Azure Fundamentals.
 - 🌱 I’m currently learning React JS
 
 <!---
